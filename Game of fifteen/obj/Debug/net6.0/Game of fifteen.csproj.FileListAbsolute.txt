@@ -1,0 +1,29 @@
+F:\Учебная практика\Game of fifteen\bin\Debug\net6.0\Game of fifteen.exe
+F:\Учебная практика\Game of fifteen\bin\Debug\net6.0\Game of fifteen.deps.json
+F:\Учебная практика\Game of fifteen\bin\Debug\net6.0\Game of fifteen.runtimeconfig.json
+F:\Учебная практика\Game of fifteen\bin\Debug\net6.0\Game of fifteen.dll
+F:\Учебная практика\Game of fifteen\bin\Debug\net6.0\Game of fifteen.pdb
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\Game of fifteen.csproj.AssemblyReference.cache
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\Game of fifteen.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\Game of fifteen.AssemblyInfoInputs.cache
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\Game of fifteen.AssemblyInfo.cs
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\Game of fifteen.csproj.CoreCompileInputs.cache
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\Game of fifteen.dll
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\refint\Game of fifteen.dll
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\Game of fifteen.pdb
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\Game of fifteen.genruntimeconfig.cache
+F:\Учебная практика\Game of fifteen\obj\Debug\net6.0\ref\Game of fifteen.dll
+C:\Users\Penguin\Desktop\Game of fifteen\bin\Debug\net6.0\Game of fifteen.exe
+C:\Users\Penguin\Desktop\Game of fifteen\bin\Debug\net6.0\Game of fifteen.deps.json
+C:\Users\Penguin\Desktop\Game of fifteen\bin\Debug\net6.0\Game of fifteen.runtimeconfig.json
+C:\Users\Penguin\Desktop\Game of fifteen\bin\Debug\net6.0\Game of fifteen.dll
+C:\Users\Penguin\Desktop\Game of fifteen\bin\Debug\net6.0\Game of fifteen.pdb
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\Game of fifteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\Game of fifteen.AssemblyInfoInputs.cache
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\Game of fifteen.AssemblyInfo.cs
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\Game of fifteen.csproj.CoreCompileInputs.cache
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\Game of fifteen.dll
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\refint\Game of fifteen.dll
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\Game of fifteen.pdb
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\Game of fifteen.genruntimeconfig.cache
+C:\Users\Penguin\Desktop\Game of fifteen\obj\Debug\net6.0\ref\Game of fifteen.dll
